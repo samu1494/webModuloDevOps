@@ -2,7 +2,7 @@
 
 Este es mi primer repositorio de practica, gracias por su atención
 
-**Nombre:** Samuel Roman Guerra  
+**Nombre:** David Samuel Roman Guerra  
 **Curso:** Modulo IV  
 
-<span style="background-color:#b3ecff; padding:4px; border-radius:4px;">UATF</span>
+<span style="background-color:#5E1675; padding:4px; border-radius:4px; color: FFD23F#;">UATF</span>
